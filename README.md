@@ -1,4 +1,4 @@
-# Challenge_1
+# Semantic Update for Accessibility
 
 ## Refactoring existing code for accessibility standards
 

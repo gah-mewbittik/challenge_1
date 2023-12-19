@@ -19,6 +19,9 @@ N/A
 To use this as a guide, you can review the html and css files. Comments were added throughout the files. Another suggestion is to review HTML Semantic Elements in W3schools website at: 
 https://www.w3schools.com/html/html5_semantic_elements.asp 
 
+To use the Semantic Update for Accessibility site simply click the following link:
+https://gah-mewbittik.github.io/semantic-update-for-accessibility/ 
+
 ## Credits
 
 N/A

@@ -2,8 +2,12 @@
 
 ## Refactoring existing code for accessibility standards
 
-The purpose of this project was to follow accessability standards, so that the website is optimized for search engines. This poject demonstrated the usefulness
+The purpose of this project was to follow accessability standards, so that the website is optimized for search engines. This project demonstrated the usefulness
 of semantic elements.
+
+The following image is a screenshot of deployed application:
+
+![Alt text](./assets/images/challenge_1.png)
 
 
 ## Installation
